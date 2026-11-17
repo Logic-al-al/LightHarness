@@ -1,0 +1,67 @@
+{
+  "id": "scene-1-gpt6",
+  "row": 1,
+  "method": "gpt6",
+  "scene_id": "025_fivek_a4791-Duggan_090131_4873",
+  "url": "scene-1-gpt6.glb",
+  "bytes": 1382916,
+  "camera": {
+    "position": [
+      0.0,
+      1.7200002670288086,
+      6.25
+    ],
+    "quaternion": [
+      -0.011963319964706898,
+      0.0,
+      0.0,
+      0.9999284744262695
+    ],
+    "target": [
+      0.0,
+      1.5792828798294067,
+      0.3700590133666992
+    ],
+    "fov": 32.965427577461085,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.5020833333333334,
+    "shift": [
+      0.0,
+      0.0
+    ]
+  },
+  "bounds": {
+    "min": [
+      -4.5,
+      -0.8499996662139893,
+      -0.1500002145767212
+    ],
+    "max": [
+      4.5,
+      4.349999904632568,
+      4.570000171661377
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [
+    "rear plaster wall",
+    "left wall return",
+    "right wall return",
+    "building dark roof",
+    "building dark roof.001",
+    "building dark roof.002",
+    "building dark roof.003"
+  ],
+  "objects": 112,
+  "original_evaluated_triangles": 42757,
+  "web_adjustments": [
+    {
+      "procedural_material_average_color": [
+        "burnt terracotta wall",
+        "white cotton bedding"
+      ]
+    }
+  ],
+  "glb_sha256": "de26f83d33713b593b7f2a34c91ce4bb08fcb66ecdadbc0c34a72c1551e5b8a0"
+}

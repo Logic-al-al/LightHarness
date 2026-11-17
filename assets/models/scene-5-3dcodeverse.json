@@ -1,0 +1,57 @@
+{
+  "id": "scene-5-3dcodeverse",
+  "row": 5,
+  "method": "3dcodeverse",
+  "scene_id": "005_fivek_a4942-kme_0895",
+  "url": "scene-5-3dcodeverse.glb",
+  "bytes": 28651364,
+  "camera": {
+    "position": [
+      0.0,
+      2.0500001907348633,
+      6.900000095367432
+    ],
+    "quaternion": [
+      -0.08127393573522568,
+      0.0,
+      0.0,
+      0.9966918230056763
+    ],
+    "target": [
+      0.0,
+      -3.126582145690918,
+      -24.630098342895508
+    ],
+    "fov": 56.00000021983617,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.501466275659824,
+    "shift": [
+      0.0,
+      0.0
+    ]
+  },
+  "bounds": {
+    "min": [
+      -29.278703689575195,
+      1.5544732809066772,
+      -42.0085334777832
+    ],
+    "max": [
+      27.544330596923828,
+      7.8649091720581055,
+      -3.789573907852173
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [],
+  "objects": 43820,
+  "original_evaluated_triangles": 976824,
+  "web_adjustments": [
+    {
+      "triangle_budget_before": 976824,
+      "decimation_ratio": 0.8701669901640419
+    }
+  ],
+  "glb_sha256": "2bcc983d19f58f00963e3da8a640e0baca63b0138f989a0477e9360f197a98cf"
+}

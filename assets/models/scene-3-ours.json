@@ -1,0 +1,73 @@
+{
+  "id": "scene-3-ours",
+  "row": 3,
+  "method": "ours",
+  "scene_id": "031_luxremix_014684_0000_0001_front",
+  "url": "scene-3-ours.glb",
+  "bytes": 3495584,
+  "camera": {
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quaternion": [
+      -5.960464477539063e-08,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "target": [
+      0.0,
+      -6.606818487853161e-07,
+      -5.542201042175293
+    ],
+    "fov": 56.58735420855516,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.3333333333333333,
+    "shift": [
+      -0.000965250947047025,
+      0.0009544833446852863
+    ]
+  },
+  "bounds": {
+    "min": [
+      -4.153512954711914,
+      -1.2414686679840088,
+      -8.22763729095459
+    ],
+    "max": [
+      4.462459564208984,
+      2.1352055072784424,
+      2.450103998184204
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [],
+  "objects": 369,
+  "original_evaluated_triangles": 60256,
+  "web_adjustments": [
+    {
+      "procedural_material_average_color": [
+        "warm cream plaster",
+        "mineral ceiling plaster",
+        "dark walnut",
+        "dark patterned right wall",
+        "irregular red brown entrance timber",
+        "partly transmitting frosted glass bands",
+        "cream woven upholstery",
+        "drawer timber 0",
+        "drawer timber 2",
+        "drawer timber 1",
+        "drawer timber 5",
+        "drawer timber 3",
+        "drawer timber 4",
+        "chest oak top",
+        "cupboard vertical walnut grain",
+        "dark olive charcoal leather"
+      ]
+    }
+  ],
+  "glb_sha256": "b11aec5a3bd766cc8d33e45cc088e38e2cd556b56515f8430d03f3c744db6020"
+}

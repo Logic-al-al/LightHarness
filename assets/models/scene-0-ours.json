@@ -1,0 +1,66 @@
+{
+  "id": "scene-0-ours",
+  "row": 0,
+  "method": "ours",
+  "scene_id": "014_baid_input_0000",
+  "url": "scene-0-ours.glb",
+  "bytes": 4995552,
+  "camera": {
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quaternion": [
+      -5.960464477539063e-08,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "target": [
+      0.0,
+      -1.2516975402832031e-06,
+      -10.5
+    ],
+    "fov": 31.49416331865986,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.5,
+    "shift": [
+      -0.000965250947047025,
+      0.0009673500899225473
+    ]
+  },
+  "bounds": {
+    "min": [
+      -8.81229019165039,
+      -3.8200008869171143,
+      -21.514511108398438
+    ],
+    "max": [
+      2.711940050125122,
+      8.618512153625488,
+      -3.6540451049804688
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [
+    "Right interior wall",
+    "Booth recessed back wall",
+    "Booth broad yellow roof",
+    "Booth pale roof inset",
+    "Rooftop sign support",
+    "Rooftop sign support.001",
+    "Irregular yellow rooftop ornament 0",
+    "Irregular yellow rooftop ornament 1",
+    "Irregular yellow rooftop ornament 2",
+    "Irregular yellow rooftop ornament 3",
+    "Irregular yellow rooftop ornament 4",
+    "Irregular yellow rooftop ornament 5",
+    "Irregular yellow rooftop ornament 6"
+  ],
+  "objects": 2091,
+  "original_evaluated_triangles": 109736,
+  "web_adjustments": [],
+  "glb_sha256": "67b1befa34b34f9537b1be0dd05b1622e5238b9bc58cdd229a10ab93c250c064"
+}

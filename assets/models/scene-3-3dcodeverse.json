@@ -1,0 +1,56 @@
+{
+  "id": "scene-3-3dcodeverse",
+  "row": 3,
+  "method": "3dcodeverse",
+  "scene_id": "031_luxremix_014684_0000_0001_front",
+  "url": "scene-3-3dcodeverse.glb",
+  "bytes": 15421456,
+  "camera": {
+    "position": [
+      -0.9800000190734863,
+      1.5000001192092896,
+      3.9000000953674316
+    ],
+    "quaternion": [
+      -0.023557670414447784,
+      0.011315441690385342,
+      0.0002666552027221769,
+      0.999658465385437
+    ],
+    "target": [
+      -1.1088660955429077,
+      1.2315298318862915,
+      -1.791581630706787
+    ],
+    "fov": 56.00000021983617,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.3333333333333333,
+    "shift": [
+      0.0,
+      0.0
+    ]
+  },
+  "bounds": {
+    "min": [
+      -2.4000000953674316,
+      -0.0005668085650540888,
+      -4.319999694824219
+    ],
+    "max": [
+      2.4000000953674316,
+      3.499999761581421,
+      3.3499999046325684
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [
+    "CeilingSlope",
+    "CeilingTimberBeam",
+    "PendantCeilingRose"
+  ],
+  "objects": 390,
+  "original_evaluated_triangles": 102082,
+  "web_adjustments": [],
+  "glb_sha256": "ba61df46bb1f55fb28a10d7bf2995639df2df2f7d3164cd0a3ead9368058cfaf"
+}

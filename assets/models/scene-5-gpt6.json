@@ -1,0 +1,64 @@
+{
+  "id": "scene-5-gpt6",
+  "row": 5,
+  "method": "gpt6",
+  "scene_id": "005_fivek_a4942-kme_0895",
+  "url": "scene-5-gpt6.glb",
+  "bytes": 3686808,
+  "camera": {
+    "position": [
+      0.0,
+      4.0500006675720215,
+      10.899999618530273
+    ],
+    "quaternion": [
+      -0.1094772145152092,
+      -0.008802409283816814,
+      -0.000969530432485044,
+      0.9939498901367188
+    ],
+    "target": [
+      0.24638517200946808,
+      0.9477865695953369,
+      -3.009563446044922
+    ],
+    "fov": 24.592724038618027,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.501466275659824,
+    "shift": [
+      0.0,
+      0.0
+    ]
+  },
+  "bounds": {
+    "min": [
+      -10.289189338684082,
+      -0.008829670026898384,
+      -18.820329666137695
+    ],
+    "max": [
+      9.469779014587402,
+      4.985354423522949,
+      2.64121675491333
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [],
+  "objects": 952,
+  "original_evaluated_triangles": 77507,
+  "web_adjustments": [
+    {
+      "procedural_material_average_color": [
+        "sunlit irregular pasture",
+        "dirt and gravel path",
+        "tree foliage",
+        "dark brown donkey shag",
+        "grey brown coat",
+        "white horse coat",
+        "spotted donkey cream coat"
+      ]
+    }
+  ],
+  "glb_sha256": "ab8026c271a9b2ee3153cbbed565d0d1fe6e060b3da4c49ba8beef3016259d85"
+}

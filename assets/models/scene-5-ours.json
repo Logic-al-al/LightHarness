@@ -1,0 +1,73 @@
+{
+  "id": "scene-5-ours",
+  "row": 5,
+  "method": "ours",
+  "scene_id": "005_fivek_a4942-kme_0895",
+  "url": "scene-5-ours.glb",
+  "bytes": 17254440,
+  "camera": {
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quaternion": [
+      -5.960464477539063e-08,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "target": [
+      0.0,
+      -1.4859201655781362e-06,
+      -12.464801788330078
+    ],
+    "fov": 54.00785531988775,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.501466275659824,
+    "shift": [
+      -0.000965250947047025,
+      0.0009649270796217024
+    ]
+  },
+  "bounds": {
+    "min": [
+      -18.397138595581055,
+      -1.6617724895477295,
+      -61.349369049072266
+    ],
+    "max": [
+      22.75883674621582,
+      32.76469802856445,
+      -2.0594990253448486
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [],
+  "objects": 257,
+  "original_evaluated_triangles": 337964,
+  "web_adjustments": [
+    {
+      "procedural_material_average_color": [
+        "real_scale_pasture_pigmentation",
+        "weathered_gray_gravel",
+        "established_bank_intrinsic_green",
+        "left_donkey_brown_coat",
+        "silver_brown_face_fur",
+        "worn_gray_hooves",
+        "pale_donkey_muzzle",
+        "warm_dark_ear_interior",
+        "pony_muzzle_gray",
+        "center_donkey_brown_coat",
+        "center_cream_face",
+        "piebald_intrinsic_patches",
+        "pony_ivory_coat",
+        "gray_tank_shell",
+        "rough_gray_brown_bark",
+        "pale_weathered_fence_stakes"
+      ]
+    }
+  ],
+  "glb_sha256": "39c9dec4948e39dbd39063fe209aef6a3c647cd839c7228efa2a853fbbb35dda"
+}

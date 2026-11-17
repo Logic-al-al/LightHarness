@@ -1,0 +1,83 @@
+{
+  "id": "scene-2-ours",
+  "row": 2,
+  "method": "ours",
+  "scene_id": "026_hypersim_ai_047_008_frame0087",
+  "url": "scene-2-ours.glb",
+  "bytes": 7153724,
+  "camera": {
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quaternion": [
+      -5.960464477539063e-08,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "target": [
+      0.0,
+      -3.727293744759663e-07,
+      -3.126680612564087
+    ],
+    "fov": 40.49965952144743,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.3333333333333333,
+    "shift": [
+      -0.000965250947047025,
+      0.0009641755605116487
+    ]
+  },
+  "bounds": {
+    "min": [
+      -2.896559715270996,
+      -1.057211995124817,
+      -5.45134973526001
+    ],
+    "max": [
+      4.71142578125,
+      1.005947470664978,
+      -1.1636523008346558
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [
+    "obj_ceiling_01",
+    "ceiling rib geometry",
+    "header roof connection -3.7",
+    "header roof connection -2.0",
+    "header roof connection -0.3",
+    "header roof connection 1.4",
+    "wall pier 0",
+    "wall above opening 0",
+    "wall below opening 0",
+    "wall pier 1",
+    "wall above opening 1",
+    "wall below opening 1",
+    "wall pier 2",
+    "wall above opening 2",
+    "wall below opening 2",
+    "wall pier 3",
+    "wall above opening 3",
+    "wall below opening 3",
+    "obj_wall_01"
+  ],
+  "objects": 458,
+  "original_evaluated_triangles": 354678,
+  "web_adjustments": [
+    {
+      "procedural_material_average_color": [
+        "blond floor board 0",
+        "blond floor board 1",
+        "blond floor board 2",
+        "blond floor board 3",
+        "blond floor board 4",
+        "charcoal woven curtain"
+      ]
+    }
+  ],
+  "glb_sha256": "b998dbf0510f7b11c52b83fddeb5d788dbb1e6b0ca64ee6a247c469092a775b4"
+}

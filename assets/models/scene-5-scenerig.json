@@ -1,0 +1,70 @@
+{
+  "id": "scene-5-scenerig",
+  "row": 5,
+  "method": "scenerig",
+  "scene_id": "005_fivek_a4942-kme_0895",
+  "url": "scene-5-scenerig.glb",
+  "bytes": 2779416,
+  "camera": {
+    "position": [
+      0.0,
+      2.1000001430511475,
+      4.300000190734863
+    ],
+    "quaternion": [
+      -0.1021423488855362,
+      0.0,
+      0.0,
+      0.994769811630249
+    ],
+    "target": [
+      0.0,
+      -0.991173267364502,
+      -10.593851089477539
+    ],
+    "fov": 44.89559353843396,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.5023474178403755,
+    "shift": [
+      0.0,
+      0.0
+    ]
+  },
+  "bounds": {
+    "min": [
+      -6.951990127563477,
+      -4.847051968681626e-07,
+      -13.709535598754883
+    ],
+    "max": [
+      6.02039909362793,
+      4.613894939422607,
+      1.3799998760223389
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [],
+  "objects": 366,
+  "original_evaluated_triangles": 97624,
+  "web_adjustments": [
+    {
+      "procedural_material_average_color": [
+        "meadow",
+        "donkey coat",
+        "pale muzzle",
+        "donkey coat.001",
+        "pale muzzle.001",
+        "donkey coat.002",
+        "pale muzzle.002",
+        "donkey coat.003",
+        "pale muzzle.003",
+        "donkey coat.004",
+        "pale muzzle.004",
+        "walnut",
+        "leaves"
+      ]
+    }
+  ],
+  "glb_sha256": "39a2ae784096ac71db5e11733fa668050ffbda5c2140a481f25f1f8332cab76d"
+}

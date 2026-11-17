@@ -1,0 +1,71 @@
+{
+  "id": "scene-1-ours",
+  "row": 1,
+  "method": "ours",
+  "scene_id": "025_fivek_a4791-Duggan_090131_4873",
+  "url": "scene-1-ours.glb",
+  "bytes": 8967984,
+  "camera": {
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quaternion": [
+      -5.960464477539063e-08,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "target": [
+      0.0,
+      -4.515498517321248e-07,
+      -3.787874698638916
+    ],
+    "fov": 52.60814148578606,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.501466275659824,
+    "shift": [
+      -0.000965250947047025,
+      0.0009651398868300021
+    ]
+  },
+  "bounds": {
+    "min": [
+      -2.8952319622039795,
+      -1.1957327127456665,
+      -4.277553081512451
+    ],
+    "max": [
+      2.8828675746917725,
+      2.002702474594116,
+      -2.441478967666626
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [
+    "Orange rear wall"
+  ],
+  "objects": 128,
+  "original_evaluated_triangles": 326840,
+  "web_adjustments": [
+    {
+      "procedural_material_average_color": [
+        "Reddish walnut polished wood",
+        "Raised walnut molding",
+        "Headboard dark walnut recess",
+        "Subtle fan veneer 00",
+        "Subtle fan veneer 03",
+        "Subtle fan veneer 06",
+        "Subtle fan veneer 02",
+        "Subtle fan veneer 05",
+        "Subtle fan veneer 01",
+        "Subtle fan veneer 04",
+        "Dark cabinet walnut",
+        "Bedside table warm walnut"
+      ]
+    }
+  ],
+  "glb_sha256": "16adec0144ad117d368c56aa6fd5ce0827af4e9c7065f587ff3fddc0e7d4a806"
+}

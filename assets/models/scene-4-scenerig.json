@@ -1,0 +1,70 @@
+{
+  "id": "scene-4-scenerig",
+  "row": 4,
+  "method": "scenerig",
+  "scene_id": "008_hypersim_ai_051_003_frame0005",
+  "url": "scene-4-scenerig.glb",
+  "bytes": 1516940,
+  "camera": {
+    "position": [
+      -1.2999999523162842,
+      1.8000000715255737,
+      3.5
+    ],
+    "quaternion": [
+      -0.03566836938261986,
+      -0.14597399532794952,
+      -0.0052665164694190025,
+      0.9886311888694763
+    ],
+    "target": [
+      0.3480881452560425,
+      1.387978196144104,
+      -1.9592914581298828
+    ],
+    "fov": 48.45549165830674,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.3333333333333333,
+    "shift": [
+      0.0,
+      0.0
+    ]
+  },
+  "bounds": {
+    "min": [
+      -3.450000047683716,
+      1.0321534205104399e-07,
+      -3.5
+    ],
+    "max": [
+      3.569999933242798,
+      3.18999981880188,
+      3.5
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [
+    "bed wall",
+    "left wall",
+    "right wall front",
+    "right wall rear",
+    "right wall sill",
+    "right wall lintel"
+  ],
+  "objects": 533,
+  "original_evaluated_triangles": 28516,
+  "web_adjustments": [
+    {
+      "procedural_material_average_color": [
+        "oak",
+        "walnut",
+        "pink gray plaster",
+        "red bedspread",
+        "charcoal throw",
+        "leaves"
+      ]
+    }
+  ],
+  "glb_sha256": "feb809013a094895f0fec35002c040e52f9e89ab73524b9d0fe3172f128df0ca"
+}

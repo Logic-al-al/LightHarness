@@ -1,0 +1,55 @@
+{
+  "id": "scene-4-3dcodeverse",
+  "row": 4,
+  "method": "3dcodeverse",
+  "scene_id": "008_hypersim_ai_051_003_frame0005",
+  "url": "scene-4-3dcodeverse.glb",
+  "bytes": 30440344,
+  "camera": {
+    "position": [
+      2.0199999809265137,
+      1.720000147819519,
+      3.5199999809265137
+    ],
+    "quaternion": [
+      -0.06131599098443985,
+      0.2546243965625763,
+      0.016179541125893593,
+      0.9649585485458374
+    ],
+    "target": [
+      -0.8665480613708496,
+      0.9734786152839661,
+      -1.5687861442565918
+    ],
+    "fov": 43.99999881007018,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.3333333333333333,
+    "shift": [
+      0.0,
+      0.0
+    ]
+  },
+  "bounds": {
+    "min": [
+      -2.505704879760742,
+      -0.02600003592669964,
+      -1.9980000257492065
+    ],
+    "max": [
+      2.6828091144561768,
+      2.968094825744629,
+      4.447999954223633
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [
+    "CeilingPlaster",
+    "CeilingRose"
+  ],
+  "objects": 2149,
+  "original_evaluated_triangles": 297708,
+  "web_adjustments": [],
+  "glb_sha256": "034c2b44a55bf3fd0f79ab9ade25cdb15d9149043aeba9353c61efafdfed36bd"
+}

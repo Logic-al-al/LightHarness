@@ -1,0 +1,64 @@
+{
+  "id": "scene-0-scenerig",
+  "row": 0,
+  "method": "scenerig",
+  "scene_id": "014_baid_input_0000",
+  "url": "scene-0-scenerig.glb",
+  "bytes": 1987424,
+  "camera": {
+    "position": [
+      -1.7999999523162842,
+      1.3500001430511475,
+      3.299999952316284
+    ],
+    "quaternion": [
+      0.03507097437977791,
+      -0.2717788815498352,
+      0.009911547414958477,
+      0.961669385433197
+    ],
+    "target": [
+      2.9686567783355713,
+      2.015392303466797,
+      -4.462930679321289
+    ],
+    "fov": 28.072486935852957,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.5,
+    "shift": [
+      0.0,
+      0.0
+    ]
+  },
+  "bounds": {
+    "min": [
+      -8.687999725341797,
+      0.14250002801418304,
+      -8.007500648498535
+    ],
+    "max": [
+      6.687999725341797,
+      19.748332977294922,
+      0.34299996495246887
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [
+    "Projecting roof edge",
+    "Dark right wall"
+  ],
+  "objects": 1144,
+  "original_evaluated_triangles": 24624,
+  "web_adjustments": [
+    {
+      "procedural_material_average_color": [
+        "Black veined stone",
+        "Light marble",
+        "Dark walnut",
+        "Potting soil"
+      ]
+    }
+  ],
+  "glb_sha256": "96dbcb37e6220398a1d520b042ad4cc15698a4403b6b321bafa91805c89b02a1"
+}

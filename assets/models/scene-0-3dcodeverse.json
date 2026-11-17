@@ -1,0 +1,72 @@
+{
+  "id": "scene-0-3dcodeverse",
+  "row": 0,
+  "method": "3dcodeverse",
+  "scene_id": "014_baid_input_0000",
+  "url": "scene-0-3dcodeverse.glb",
+  "bytes": 2309820,
+  "camera": {
+    "position": [
+      4.199999809265137,
+      2.700000286102295,
+      4.0
+    ],
+    "quaternion": [
+      -0.053234972059726715,
+      0.4133960008621216,
+      0.024219058454036713,
+      0.9086711406707764
+    ],
+    "target": [
+      -6.935244560241699,
+      0.9633102416992188,
+      -5.705028533935547
+    ],
+    "fov": 42.00000169963833,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.5005861664712778,
+    "shift": [
+      0.0,
+      0.0
+    ]
+  },
+  "bounds": {
+    "min": [
+      -27.402856826782227,
+      -9.501774229647708e-07,
+      -20.00250244140625
+    ],
+    "max": [
+      18.402856826782227,
+      31.045000076293945,
+      -5.999999046325684
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [
+    "CeilingCafe"
+  ],
+  "objects": 1857,
+  "original_evaluated_triangles": 23692,
+  "web_adjustments": [
+    {
+      "procedural_material_average_color": [
+        "CityPavement",
+        "CharcoalInteriorPlaster",
+        "WarmGreyCounter",
+        "LimestoneCityCladding",
+        "BlueTowerWindow4",
+        "BlueTowerWindow1",
+        "BlueTowerWindow2",
+        "BlueTowerWindow3",
+        "BlueTowerWindow0",
+        "AnodisedWindowFrame",
+        "StreetAwningRed",
+        "StreetShopCream",
+        "StreetShopGlass"
+      ]
+    }
+  ],
+  "glb_sha256": "bb040c47ba784657ac6b326775194792d2a544fec8c5080e7f270992ffc45f8d"
+}

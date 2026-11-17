@@ -1,0 +1,5 @@
+Linux Libertine, by Philipp H. Poll and contributors.
+Source: https://mirrors.ctan.org/fonts/libertine.zip
+Original OpenType fonts converted losslessly to WOFF2 using fontTools.
+Copyright and license metadata retained in each font.
+See LICENCE.txt and GPL.txt.

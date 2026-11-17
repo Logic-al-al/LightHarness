@@ -1,0 +1,60 @@
+{
+  "id": "scene-2-viga",
+  "row": 2,
+  "method": "viga",
+  "scene_id": "026_hypersim_ai_047_008_frame0087",
+  "url": "scene-2-viga.glb",
+  "bytes": 963620,
+  "camera": {
+    "position": [
+      4.5,
+      3.200000524520874,
+      8.5
+    ],
+    "quaternion": [
+      -0.006592724472284317,
+      0.15184421837329865,
+      0.0010128079447895288,
+      0.9883819818496704
+    ],
+    "target": [
+      1.487213134765625,
+      3.066099166870117,
+      -1.0739660263061523
+    ],
+    "fov": 42.18467953584078,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.3333333333333333,
+    "shift": [
+      0.0,
+      0.0
+    ]
+  },
+  "bounds": {
+    "min": [
+      -8.0,
+      7.868049545223244e-10,
+      -6.060000419616699
+    ],
+    "max": [
+      8.0,
+      6.899999618530273,
+      4.99399995803833
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [
+    "Back wall",
+    "Ceiling",
+    "Recessed dark ceiling panel",
+    "Recessed dark ceiling panel.001",
+    "Recessed dark ceiling panel.002",
+    "Recessed dark ceiling panel.003",
+    "Recessed dark ceiling panel.004"
+  ],
+  "objects": 427,
+  "original_evaluated_triangles": 11460,
+  "web_adjustments": [],
+  "glb_sha256": "348ba183763b669ad2e0640bed082c287d1cc4c57363947d79a2913319f6b5e1"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "scene-1-scenerig",
+  "row": 1,
+  "method": "scenerig",
+  "scene_id": "025_fivek_a4791-Duggan_090131_4873",
+  "url": "scene-1-scenerig.glb",
+  "bytes": 274128,
+  "camera": {
+    "position": [
+      0.0,
+      1.3500001430511475,
+      3.4000000953674316
+    ],
+    "quaternion": [
+      0.022304771468043327,
+      0.0,
+      0.0,
+      0.9997512102127075
+    ],
+    "target": [
+      0.0,
+      1.6192712783813477,
+      -2.6316728591918945
+    ],
+    "fov": 41.07529477553983,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.501466275659824,
+    "shift": [
+      0.0,
+      0.0
+    ]
+  },
+  "bounds": {
+    "min": [
+      -3.0,
+      -0.1999998539686203,
+      -3.5
+    ],
+    "max": [
+      3.0,
+      3.180000066757202,
+      1.2249999046325684
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [
+    "orange bedroom wall"
+  ],
+  "objects": 47,
+  "original_evaluated_triangles": 3837,
+  "web_adjustments": [
+    {
+      "procedural_material_average_color": [
+        "oak",
+        "golden orange plaster",
+        "polished mahogany",
+        "white textured duvet"
+      ]
+    }
+  ],
+  "glb_sha256": "40c8d126efc8ac64d8b0b55a4993a80b0a5783f7c0a511e23aa927eef22e245e"
+}

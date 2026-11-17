@@ -1,0 +1,71 @@
+{
+  "id": "scene-4-viga",
+  "row": 4,
+  "method": "viga",
+  "scene_id": "008_hypersim_ai_051_003_frame0005",
+  "url": "scene-4-viga.glb",
+  "bytes": 6109932,
+  "camera": {
+    "position": [
+      2.700000047683716,
+      2.6500003337860107,
+      6.199999809265137
+    ],
+    "quaternion": [
+      -0.07367191463708878,
+      0.20786766707897186,
+      0.01570262759923935,
+      0.9752522110939026
+    ],
+    "target": [
+      -0.36429715156555176,
+      1.5081053972244263,
+      -0.6618118286132812
+    ],
+    "fov": 37.73799933345739,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.3333333333333333,
+    "shift": [
+      0.0,
+      0.0
+    ]
+  },
+  "bounds": {
+    "min": [
+      -5.998000144958496,
+      -2.2845205194244045e-07,
+      -2.950000286102295
+    ],
+    "max": [
+      5.998000144958496,
+      6.0,
+      4.100000381469727
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [
+    "Continuous rear plaster wall",
+    "Right wall below window",
+    "Right wall above window",
+    "Right wall front of aperture",
+    "Right wall behind aperture"
+  ],
+  "objects": 159,
+  "original_evaluated_triangles": 126290,
+  "web_adjustments": [
+    {
+      "procedural_material_average_color": [
+        "Natural muted oak 0",
+        "Natural muted oak 1",
+        "Natural muted oak 2",
+        "Natural muted oak 3",
+        "Natural muted oak 4",
+        "Natural muted oak 5",
+        "Natural muted oak 6",
+        "Warm ivory charcoal and rust checked sheet"
+      ]
+    }
+  ],
+  "glb_sha256": "0ed44a4a61606d034878de7fd046062794ae81dcd325239ea2b391b123e6c644"
+}

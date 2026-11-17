@@ -1,0 +1,57 @@
+{
+  "id": "scene-3-viga",
+  "row": 3,
+  "method": "viga",
+  "scene_id": "031_luxremix_014684_0000_0001_front",
+  "url": "scene-3-viga.glb",
+  "bytes": 86584,
+  "camera": {
+    "position": [
+      0.15000000596046448,
+      1.7800003290176392,
+      7.599999904632568
+    ],
+    "quaternion": [
+      -0.0016758173005655408,
+      0.005586323793977499,
+      9.362045602756552e-06,
+      0.9999829530715942
+    ],
+    "target": [
+      0.03958221524953842,
+      1.7468754053115845,
+      -2.28239107131958
+    ],
+    "fov": 42.18467953584078,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.3333333333333333,
+    "shift": [
+      0.0,
+      0.0
+    ]
+  },
+  "bounds": {
+    "min": [
+      -3.2750000953674316,
+      -0.23999980092048645,
+      -4.5
+    ],
+    "max": [
+      3.489999771118164,
+      3.6500000953674316,
+      4.5
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [
+    "Left wall",
+    "Right wall",
+    "Back wall",
+    "Red side wall"
+  ],
+  "objects": 31,
+  "original_evaluated_triangles": 888,
+  "web_adjustments": [],
+  "glb_sha256": "8124934df10b8523d3146317cb2a309429e98322d2de634d4492457ede01f580"
+}

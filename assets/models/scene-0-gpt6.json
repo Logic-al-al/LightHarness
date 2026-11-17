@@ -1,0 +1,55 @@
+{
+  "id": "scene-0-gpt6",
+  "row": 0,
+  "method": "gpt6",
+  "scene_id": "014_baid_input_0000",
+  "url": "scene-0-gpt6.glb",
+  "bytes": 3396472,
+  "camera": {
+    "position": [
+      0.0,
+      3.3000004291534424,
+      10.0
+    ],
+    "quaternion": [
+      -0.0020000324584543705,
+      0.0,
+      0.0,
+      0.9999979734420776
+    ],
+    "target": [
+      0.0,
+      3.1851673126220703,
+      -18.707616806030273
+    ],
+    "fov": 37.866454406185994,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.499267935578331,
+    "shift": [
+      0.0,
+      0.0
+    ]
+  },
+  "bounds": {
+    "min": [
+      -19.92500114440918,
+      -1.400000810623169,
+      -23.46000099182129
+    ],
+    "max": [
+      10.950000762939453,
+      22.75,
+      0.5308313965797424
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [
+    "kiosk roof",
+    "right interior wall"
+  ],
+  "objects": 678,
+  "original_evaluated_triangles": 78756,
+  "web_adjustments": [],
+  "glb_sha256": "0f7036d523d243491423148be9b32f10a45b9ec6b5efccfc166cfd45f1eb0e91"
+}

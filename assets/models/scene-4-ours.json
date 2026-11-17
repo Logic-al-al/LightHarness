@@ -1,0 +1,65 @@
+{
+  "id": "scene-4-ours",
+  "row": 4,
+  "method": "ours",
+  "scene_id": "008_hypersim_ai_051_003_frame0005",
+  "url": "scene-4-ours.glb",
+  "bytes": 8734904,
+  "camera": {
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quaternion": [
+      -5.960464477539063e-08,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "target": [
+      0.0,
+      -3.8742223296139855e-07,
+      -3.2499332427978516
+    ],
+    "fov": 42.15127568158867,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.3333333333333333,
+    "shift": [
+      -0.000965250947047025,
+      0.0009620916098356247
+    ]
+  },
+  "bounds": {
+    "min": [
+      -3.9263267517089844,
+      -1.3306804895401,
+      -5.436240196228027
+    ],
+    "max": [
+      2.0734922885894775,
+      2.4287924766540527,
+      1.537126898765564
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [],
+  "objects": 40,
+  "original_evaluated_triangles": 375262,
+  "web_adjustments": [
+    {
+      "procedural_material_average_color": [
+        "oak plank 00",
+        "oak plank 03",
+        "oak plank 05",
+        "oak plank 04",
+        "oak plank 02",
+        "oak plank 06",
+        "oak plank 01",
+        "oak plank 07"
+      ]
+    }
+  ],
+  "glb_sha256": "be701898e375841e99a6e77ce2b2c4bfc065095eb148f23a3cace26be7bf616f"
+}

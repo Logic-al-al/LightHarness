@@ -1,0 +1,79 @@
+{
+  "id": "scene-3-gpt6",
+  "row": 3,
+  "method": "gpt6",
+  "scene_id": "031_luxremix_014684_0000_0001_front",
+  "url": "scene-3-gpt6.glb",
+  "bytes": 654232,
+  "camera": {
+    "position": [
+      0.0,
+      1.5500000715255737,
+      3.700000047683716
+    ],
+    "quaternion": [
+      -0.03418699651956558,
+      -0.015561556443572044,
+      -0.000532379955984652,
+      0.9992941617965698
+    ],
+    "target": [
+      0.205899178981781,
+      1.0970227718353271,
+      -2.9093635082244873
+    ],
+    "fov": 47.064697444417575,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.3333333333333333,
+    "shift": [
+      0.0,
+      0.0
+    ]
+  },
+  "bounds": {
+    "min": [
+      -3.0999999046325684,
+      -2.897794502132456e-07,
+      -5.700000286102295
+    ],
+    "max": [
+      3.8949999809265137,
+      3.549999713897705,
+      2.8499999046325684
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [
+    "back wall left",
+    "back wall right",
+    "wall above inner doorway",
+    "left side wall",
+    "right side wall",
+    "left pitched upper wall",
+    "right pitched upper wall",
+    "left ceiling pitch",
+    "right ceiling pitch",
+    "deep room back wall",
+    "deep room red right wall",
+    "deep room green left wall",
+    "entry gray wall",
+    "pendant ceiling cap"
+  ],
+  "objects": 123,
+  "original_evaluated_triangles": 10998,
+  "web_adjustments": [
+    {
+      "procedural_material_average_color": [
+        "mottled beige stone floor",
+        "aged warm ivory plaster",
+        "golden ceiling plaster",
+        "olive cream ceiling plaster",
+        "dark walnut wood",
+        "walnut cabinet wood",
+        "light variegated drawer wood"
+      ]
+    }
+  ],
+  "glb_sha256": "33ce7568e90b5c6ea6e3864fbde514b42160c1dd6fa1dfcbfb3d84ffeba4fdcc"
+}

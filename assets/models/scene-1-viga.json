@@ -1,0 +1,83 @@
+{
+  "id": "scene-1-viga",
+  "row": 1,
+  "method": "viga",
+  "scene_id": "025_fivek_a4791-Duggan_090131_4873",
+  "url": "scene-1-viga.glb",
+  "bytes": 2208260,
+  "camera": {
+    "position": [
+      0.0,
+      2.1600003242492676,
+      7.599999904632568
+    ],
+    "quaternion": [
+      0.011181957088410854,
+      0.0,
+      0.0,
+      0.9999374747276306
+    ],
+    "target": [
+      0.0,
+      2.3304319381713867,
+      -0.019407272338867188
+    ],
+    "fov": 27.484846540434837,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.5020833333333334,
+    "shift": [
+      0.0,
+      0.0
+    ]
+  },
+  "bounds": {
+    "min": [
+      -2.7899999618530273,
+      0.8300001621246338,
+      -0.3200000524520874
+    ],
+    "max": [
+      2.7899999618530273,
+      4.049999713897705,
+      1.4199998378753662
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [
+    "Orange plaster wall",
+    "Terracotta village roof",
+    "Terracotta village roof.001",
+    "Terracotta village roof.002",
+    "Terracotta village roof.003",
+    "Terracotta village roof.004",
+    "Terracotta village roof.005",
+    "Terracotta village roof.006",
+    "Terracotta village roof.007",
+    "Terracotta village roof.008",
+    "Terracotta village roof.009",
+    "Terracotta village roof.010",
+    "Terracotta village roof.011",
+    "Terracotta village roof.012",
+    "Terracotta village roof.013",
+    "Terracotta village roof.014",
+    "Terracotta village roof.015",
+    "Terracotta village roof.016",
+    "Terracotta village roof.017",
+    "Terracotta village roof.018",
+    "Terracotta village roof.019",
+    "Terracotta village roof.020",
+    "Terracotta village roof.021",
+    "Terracotta village roof.022"
+  ],
+  "objects": 187,
+  "original_evaluated_triangles": 74216,
+  "web_adjustments": [
+    {
+      "procedural_material_average_color": [
+        "Polished reddish walnut.001"
+      ]
+    }
+  ],
+  "glb_sha256": "25920f58154249a05b3b20b4ce202bac44e030fad1ad4e576c79b5e2c0103c78"
+}

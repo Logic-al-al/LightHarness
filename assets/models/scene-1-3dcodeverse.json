@@ -1,0 +1,54 @@
+{
+  "id": "scene-1-3dcodeverse",
+  "row": 1,
+  "method": "3dcodeverse",
+  "scene_id": "025_fivek_a4791-Duggan_090131_4873",
+  "url": "scene-1-3dcodeverse.glb",
+  "bytes": 8299880,
+  "camera": {
+    "position": [
+      0.0,
+      1.1500000953674316,
+      2.0
+    ],
+    "quaternion": [
+      0.04981362447142601,
+      0.0,
+      0.0,
+      0.9987584948539734
+    ],
+    "target": [
+      0.0,
+      1.480544090270996,
+      -1.3054454326629639
+    ],
+    "fov": 36.00000096714099,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.501466275659824,
+    "shift": [
+      0.0,
+      0.0
+    ]
+  },
+  "bounds": {
+    "min": [
+      -2.4000000953674316,
+      -0.09999990463256836,
+      -2.200000047683716
+    ],
+    "max": [
+      2.4000000953674316,
+      3.1999998092651367,
+      3.299999952316284
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [
+    "Ceiling"
+  ],
+  "objects": 159,
+  "original_evaluated_triangles": 189986,
+  "web_adjustments": [],
+  "glb_sha256": "fac0a3bc98ad704f7d0e56f05f1f466f2d3f84d57d4b75fafa0f8e0256cff7f5"
+}

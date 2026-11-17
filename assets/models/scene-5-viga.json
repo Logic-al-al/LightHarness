@@ -1,0 +1,89 @@
+{
+  "id": "scene-5-viga",
+  "row": 5,
+  "method": "viga",
+  "scene_id": "005_fivek_a4942-kme_0895",
+  "url": "scene-5-viga.glb",
+  "bytes": 68962564,
+  "camera": {
+    "position": [
+      0.05000000074505806,
+      3.500000238418579,
+      4.699999809265137
+    ],
+    "quaternion": [
+      -0.21861806511878967,
+      0.0,
+      0.0,
+      0.9758105278015137
+    ],
+    "target": [
+      0.05000000074505806,
+      -6.9342803955078125,
+      -17.41808319091797
+    ],
+    "fov": 41.05982971770235,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.5020833333333334,
+    "shift": [
+      0.0,
+      0.0
+    ]
+  },
+  "bounds": {
+    "min": [
+      -13.273213386535645,
+      0.0031790209468454123,
+      -40.141448974609375
+    ],
+    "max": [
+      15.43963623046875,
+      9.309494018554688,
+      1.625499963760376
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [
+    "Small shed roof"
+  ],
+  "objects": 1282,
+  "original_evaluated_triangles": 3194410,
+  "web_adjustments": [
+    {
+      "object": "Adult continuous face",
+      "subdivision_before": 2,
+      "subdivision_after": 1
+    },
+    {
+      "object": "Young continuous face",
+      "subdivision_before": 2,
+      "subdivision_after": 1
+    },
+    {
+      "triangle_budget_before": 3194410,
+      "decimation_ratio": 0.26608982566420714
+    },
+    {
+      "procedural_material_average_color": [
+        "Irregular charcoal spotted white pony",
+        "Weathered horn hooves",
+        "Gray brown face",
+        "Dark ear hollows",
+        "Cream pony coat",
+        "Ivory mane",
+        "Living meadow ground",
+        "Lane compacted gray earth",
+        "Old fence wood",
+        "Rough gray tree bark",
+        "Old olive green cart",
+        "Faded blue gray galvanized tank",
+        "Dark mane",
+        "Dark chocolate shaggy donkey",
+        "Warm ivory gray face",
+        "Young donkey gray brown"
+      ]
+    }
+  ],
+  "glb_sha256": "f094fc072a8a81c63ff8401e1807412dc7f102bd1d55d71a101f17779a3d42a5"
+}

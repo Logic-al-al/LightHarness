@@ -1,0 +1,69 @@
+{
+  "id": "scene-3-scenerig",
+  "row": 3,
+  "method": "scenerig",
+  "scene_id": "031_luxremix_014684_0000_0001_front",
+  "url": "scene-3-scenerig.glb",
+  "bytes": 720436,
+  "camera": {
+    "position": [
+      -1.7000000476837158,
+      1.5500000715255737,
+      3.0999999046325684
+    ],
+    "quaternion": [
+      0.004714918322861195,
+      -0.17511259019374847,
+      0.0008386209374293685,
+      0.9845367670059204
+    ],
+    "target": [
+      0.08150637149810791,
+      1.5994858741760254,
+      -1.7496562004089355
+    ],
+    "fov": 56.73809441414577,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.3333333333333333,
+    "shift": [
+      0.0,
+      0.0
+    ]
+  },
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      -0.09999986737966537,
+      -5.049999713897705
+    ],
+    "max": [
+      3.1000001430511475,
+      3.5999999046325684,
+      3.499999761581421
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [
+    "left wall",
+    "back wall left",
+    "back wall right",
+    "sloped ceiling",
+    "ceiling center beam",
+    "red hall wall"
+  ],
+  "objects": 84,
+  "original_evaluated_triangles": 12564,
+  "web_adjustments": [
+    {
+      "procedural_material_average_color": [
+        "ochre mottled floor",
+        "yellow aged plaster",
+        "walnut",
+        "beige sofa fabric",
+        "oak"
+      ]
+    }
+  ],
+  "glb_sha256": "27f8d5ad027169b9193b5885b9e7b2f92a7b4576dabc7592b8cb15aaaf8ee940"
+}

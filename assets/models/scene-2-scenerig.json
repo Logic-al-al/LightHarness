@@ -1,0 +1,138 @@
+{
+  "id": "scene-2-scenerig",
+  "row": 2,
+  "method": "scenerig",
+  "scene_id": "026_hypersim_ai_047_008_frame0087",
+  "url": "scene-2-scenerig.glb",
+  "bytes": 2819924,
+  "camera": {
+    "position": [
+      4.0,
+      2.200000286102295,
+      5.0
+    ],
+    "quaternion": [
+      0.026318421587347984,
+      0.2533075213432312,
+      -0.006894137244671583,
+      0.9670032262802124
+    ],
+    "target": [
+      0.4951915740966797,
+      2.5894222259521484,
+      -1.2307710647583008
+    ],
+    "fov": 58.71550562631367,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.3333333333333333,
+    "shift": [
+      0.0,
+      0.0
+    ]
+  },
+  "bounds": {
+    "min": [
+      -5.970000267028809,
+      -2.414783750737115e-07,
+      -5.0
+    ],
+    "max": [
+      5.970000267028809,
+      4.520000457763672,
+      5.0
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [
+    "ceiling",
+    "square ceiling luminaire",
+    "square ceiling luminaire.001",
+    "square ceiling luminaire.002",
+    "square ceiling luminaire.003",
+    "square ceiling luminaire.004",
+    "square ceiling luminaire.005",
+    "square ceiling luminaire.006",
+    "square ceiling luminaire.007",
+    "square ceiling luminaire.008",
+    "square ceiling luminaire.009",
+    "square ceiling luminaire.010",
+    "square ceiling luminaire.011",
+    "ceiling recessed panel",
+    "ceiling recessed panel.001",
+    "ceiling recessed panel.002",
+    "ceiling acoustic rib",
+    "ceiling acoustic rib.001",
+    "ceiling acoustic rib.002",
+    "ceiling acoustic rib.003",
+    "ceiling acoustic rib.004",
+    "ceiling acoustic rib.005",
+    "ceiling acoustic rib.006",
+    "ceiling acoustic rib.007",
+    "ceiling acoustic rib.008",
+    "ceiling acoustic rib.009",
+    "ceiling acoustic rib.010",
+    "ceiling acoustic rib.011",
+    "ceiling acoustic rib.012",
+    "ceiling acoustic rib.013",
+    "ceiling acoustic rib.014",
+    "ceiling acoustic rib.015",
+    "ceiling acoustic rib.016",
+    "ceiling acoustic rib.017",
+    "ceiling acoustic rib.018",
+    "ceiling acoustic rib.019",
+    "ceiling acoustic rib.020",
+    "ceiling acoustic rib.021",
+    "ceiling acoustic rib.022",
+    "ceiling acoustic rib.023",
+    "ceiling acoustic rib.024",
+    "ceiling acoustic rib.025",
+    "ceiling acoustic rib.026",
+    "ceiling acoustic rib.027",
+    "ceiling acoustic rib.028",
+    "ceiling acoustic rib.029",
+    "ceiling acoustic rib.030",
+    "ceiling acoustic rib.031",
+    "ceiling acoustic rib.032",
+    "ceiling acoustic rib.033",
+    "ceiling acoustic rib.034",
+    "ceiling acoustic rib.035",
+    "ceiling acoustic rib.036",
+    "ceiling acoustic rib.037",
+    "ceiling acoustic rib.038",
+    "ceiling acoustic rib.039",
+    "ceiling acoustic rib.040",
+    "ceiling acoustic rib.041",
+    "ceiling acoustic rib.042",
+    "ceiling acoustic rib.043",
+    "ceiling acoustic rib.044",
+    "ceiling acoustic rib.045",
+    "ceiling acoustic rib.046",
+    "ceiling acoustic rib.047",
+    "ceiling acoustic rib.048",
+    "ceiling acoustic rib.049",
+    "ceiling acoustic rib.050",
+    "ceiling acoustic rib.051",
+    "ceiling acoustic rib.052",
+    "ceiling acoustic rib.053",
+    "ceiling acoustic rib.054",
+    "ceiling acoustic rib.055",
+    "ceiling acoustic rib.056",
+    "ceiling acoustic rib.057",
+    "ceiling acoustic rib.058",
+    "ceiling acoustic rib.059",
+    "ceiling acoustic rib.060"
+  ],
+  "objects": 483,
+  "original_evaluated_triangles": 47588,
+  "web_adjustments": [
+    {
+      "procedural_material_average_color": [
+        "dark blue carpet",
+        "oak",
+        "charcoal curtain cloth"
+      ]
+    }
+  ],
+  "glb_sha256": "5052f73aaae5b38ed096f912fd9958486a43009e993816fbe84c5fa362792e7f"
+}

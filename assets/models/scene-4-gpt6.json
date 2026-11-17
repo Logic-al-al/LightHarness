@@ -1,0 +1,57 @@
+{
+  "id": "scene-4-gpt6",
+  "row": 4,
+  "method": "gpt6",
+  "scene_id": "008_hypersim_ai_051_003_frame0005",
+  "url": "scene-4-gpt6.glb",
+  "bytes": 7028796,
+  "camera": {
+    "position": [
+      2.450000047683716,
+      2.5200002193450928,
+      5.900000095367432
+    ],
+    "quaternion": [
+      -0.09632743895053864,
+      0.19027934968471527,
+      0.018764203414320946,
+      0.9768125414848328
+    ],
+    "target": [
+      -0.9954254627227783,
+      0.6918164491653442,
+      -2.6080899238586426
+    ],
+    "fov": 40.09049837531555,
+    "type": "PERSP",
+    "ortho_scale": 6.0,
+    "aspect": 1.3333333333333333,
+    "shift": [
+      0.0,
+      0.0
+    ]
+  },
+  "bounds": {
+    "min": [
+      -8.174500465393066,
+      -1.3343208138394402e-07,
+      -3.049999952316284
+    ],
+    "max": [
+      7.805500030517578,
+      4.131671905517578,
+      3.950000047683716
+    ]
+  },
+  "source_camera_hidden": [],
+  "shell_objects": [
+    "rear plaster wall",
+    "right return wall",
+    "back wall skirting",
+    "chandelier ceiling rod"
+  ],
+  "objects": 688,
+  "original_evaluated_triangles": 32344,
+  "web_adjustments": [],
+  "glb_sha256": "d19a1a34cfd5b4982ea0fc4111b3daf95ce09b814bc71ec4d8fb7f6b480986e9"
+}
